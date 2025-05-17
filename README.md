@@ -34,7 +34,7 @@ This interactive dashboard visualizes key business metrics and empowers users to
 ## 📽️ Demo Video
 
 👉 Watch the dashboard in action:  
-[!(https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)  
+[!(dashboard.mp4)]  
 
 ---
 
@@ -64,9 +64,9 @@ I'm excited to:
 
 ## 📬 Let’s Connect!
 
-If you found this helpful or want to collaborate, feel free to reach out!
+Feel free to reach out if you found this helpful or want to collaborate!
 
-📧 mudassir@example.com  
+📧 mrmudasir05@gmail.com  
 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mudasir-azhar-a80b68237/))  
 🌐 [Portfolio]([https://yourportfolio.com](https://aicohort.tech/success-story/muhammad-mudassir-azhar/))
 
