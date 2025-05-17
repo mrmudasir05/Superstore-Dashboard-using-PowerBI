@@ -58,14 +58,7 @@ Dataset: [Superstore Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/tsh
 - 📚 Practicing clean layout and dashboard structure for executive use  
 - 💬 Communicating data stories with business impact
 
----
 
-## 🔭 What's Next?
-
-I'm looking forward to:
-- ✅ Building more advanced Power BI projects  
-- 📈 Exploring BI tools like **Tableau**  
-- 🛠️ Working on **end-to-end pipelines** (ETL + Analytics + Reporting)
 
 ---
 
