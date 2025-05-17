@@ -1,73 +1,81 @@
-# 🛍️ Super Store Sales Dashboard - Power BI Project
+# 🛍️ Super Store Sales Dashboard — Power BI Project
 
-Just completed my **Super Store Sales Dashboard** in Power BI! 🚀  
-This interactive dashboard visualizes key business metrics and empowers users to make data-driven decisions with ease.
-
-## 📊 Dashboard Highlights
-
-🔹 **KPI Cards**  
-- Total **Profit**, **Discount**, and **Quantity**
-
-🔹 **Sales Insights**  
-- Sales by **Ship Mode**
-- Profit by **Sub-Categories**
-- Quantity by **Product Categories**
-- Top Products by **Sales**
-
-🔹 **Customer Analysis**  
-- Sales Distribution by **Customer Segment**
-
-🔹 **Dynamic Filters**  
-- **Year** and **Region** filters for personalized insights
+🚀 Just wrapped up my **Super Store Sales Dashboard** in Power BI!  
+This interactive report showcases critical business insights and enables strategic decision-making at a glance.
 
 ---
 
-## 🎯 Skills Applied
+## 📊 Dashboard Features
 
-✅ Data Visualization in Power BI  
-✅ Creating & using **DAX Measures**  
-✅ Interactive Dashboard Design  
-✅ Analytical Storytelling with real-world data  
+✨ **Key KPIs**  
+- 💰 Total **Profit**  
+- 🏷️ **Discount**  
+- 📦 **Quantity Sold**
 
----
+📦 **Sales Insights**  
+- 🚚 Sales by **Ship Mode**  
+- 🧾 Profit by **Sub-Categories**  
+- 📊 Quantity by **Product Categories**  
+- 🔝 Top Products by **Sales**
 
-## 📽️ Demo Video
+🧑‍🤝‍🧑 **Customer Analysis**  
+- 📈 Sales Distribution by **Customer Segment**
 
-👉 Watch the dashboard in action:  
-[!(dashboard.mp4)]  
-
----
-
-## 📁 Dataset
-
-Based on the [Superstore Dataset](https://www.kaggle.com/datasets/tshepangmakhethe/superstore-dataset-final)  
-Includes sales records of a fictional retail store across multiple regions, years, and categories.
-
----
-
-## 💡 What I Learned
-
-- How to use slicers, filters, and DAX measures to make dashboards interactive
-- Techniques to highlight key insights clearly and effectively
-- Structuring a layout to balance business KPIs and visual storytelling
+🧭 **Dynamic Filtering**  
+- 🗓️ **Year Selector**  
+- 🌍 **Region Selector**
 
 ---
 
-## 🚀 Next Steps
+## 🛠️ Skills Demonstrated
 
-I'm excited to:
-- Take on more Power BI challenges
-- Explore other BI tools like Tableau
-- Work on end-to-end data projects including ETL, analysis, and reporting
+- 📌 **Data Visualization** in Power BI  
+- 🧠 Writing custom **DAX Measures**  
+- 🧩 **Interactive Dashboard Design**  
+- 🗣️ **Analytical Storytelling** using real-world data
+
+---
+
+## 🎥 Demo Video
+
+👁️‍🗨️ **Watch the dashboard in action:**  
+![Dashboard Preview](dashboard.gif)  
+📽️ [Click here to watch the full video demo](https://your-video-link.com)  
+> *(Replace with your actual video link and GIF if available)*
 
 ---
 
-## 📬 Let’s Connect!
+## 📁 Dataset Source
 
-Feel free to reach out if you found this helpful or want to collaborate!
-
-📧 mrmudasir05@gmail.com  
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mudasir-azhar-a80b68237/))  
-🌐 [Portfolio]([https://yourportfolio.com](https://aicohort.tech/success-story/muhammad-mudassir-azhar/))
+Dataset: [Superstore Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/tshepangmakhethe/superstore-dataset-final)  
+🛒 Includes sales transactions across various regions, customer segments, and product categories.
 
 ---
+
+## 💡 Key Learnings
+
+- 📊 Designing visuals that convey maximum insight with minimum noise  
+- 🔧 Building **parameterized filters and slicers** for flexibility  
+- 📚 Practicing clean layout and dashboard structure for executive use  
+- 💬 Communicating data stories with business impact
+
+---
+
+## 🔭 What's Next?
+
+I'm looking forward to:
+- ✅ Building more advanced Power BI projects  
+- 📈 Exploring BI tools like **Tableau**  
+- 🛠️ Working on **end-to-end pipelines** (ETL + Analytics + Reporting)
+
+---
+
+## 🤝 Let’s Connect!
+
+📧 **Email:** [mrmudasir05@gmail.com](mailto:mrmudasir05@gmail.com)  
+🔗 **LinkedIn:** [Muhammad Mudassir Azhar](https://www.linkedin.com/in/mudasir-azhar-a80b68237/)  
+🌐 **Portfolio:** [Success Story on AICohort.tech](https://aicohort.tech/success-story/muhammad-mudassir-azhar/)
+
+---
+
+> 💬 _“Turning data into insight, and insight into action!”_
