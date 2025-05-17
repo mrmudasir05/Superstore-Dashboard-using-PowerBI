@@ -39,9 +39,8 @@ This interactive report showcases critical business insights and enables strateg
 ## 🎥 Demo Video
 
 👁️‍🗨️ **Watch the dashboard in action:**  
-![Dashboard Preview](dashboard.gif)  
-📽️ [Click here to watch the full video demo](https://your-video-link.com)  
-> *(Replace with your actual video link and GIF if available)*
+![Dashboard Preview](dashboard.mp4)  
+
 
 ---
 
